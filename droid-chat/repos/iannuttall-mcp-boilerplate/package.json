@@ -19,7 +19,7 @@
     "stripe": "^18.1.0",
     "typescript": "^5.8.3",
     "workers-mcp": "0.1.0-3",
-    "wrangler": "^4.15.2",
+    "wrangler": "^4.24.4",
     "zod": "^3.24.4"
   }
 }
